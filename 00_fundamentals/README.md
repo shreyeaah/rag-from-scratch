@@ -161,6 +161,7 @@ This implementation helps build intuition about:
 
 
 ---
+<img width="935" height="345" alt="Screenshot 2025-12-16 204027" src="https://github.com/user-attachments/assets/19e39af7-aa95-479b-81d5-7c3224c09a6b" />
 
 
 
